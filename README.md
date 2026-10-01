@@ -219,6 +219,7 @@ Tailor stories to company values. Mirror their language in your answers.
 - Timing: Use a 30–45 minute timer; practice under interview constraints
 - Whiteboarding: Alternate between editor and plain text/whiteboard mode
 - Tracking: Maintain a simple log of problems, patterns, and mistakes
+- [Luna Interview](https://lunainterview.xyz/) - AI interview copilot Chrome extension that turns your own notes and stories into suggested answers in a side panel next to Meet or Zoom.
 
 ---
 
